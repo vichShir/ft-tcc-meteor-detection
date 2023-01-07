@@ -1,1 +1,1 @@
-# ft-tcc-meteor-detection
+# Meteor Detection
